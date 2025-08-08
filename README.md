@@ -45,7 +45,7 @@ Here are some of the projects I’m working on or have completed:
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](....)
-- 📨 Reach me at: your.email@example.com
+- 📨 Reach me at: samuelakande202@gmail.com
 
 ---
 
