@@ -35,10 +35,9 @@ I’m a recent Data Science graduate passionate about using data to uncover insi
 ## 📌 Featured Projects
 Here are some of the projects I’m working on or have completed:
 
-- 🔍 [Customer Segmentation with K-Means](#)  
-- 🌍 [Carbon Footprint Tracker (Python)](#)  
-- 📈 [Survey Sentiment Analysis Dashboard](#)  
-- 📊 [Power BI Sales Dashboard](#)  
+- 🔍 [House Price Prediction](#)  
+- 🌍 [Medical Image Prediction (Python)](#)  
+- 📈 [Energy Consumption Analysis (R)](#)  
 
 ➡️ *More coming soon!*
 
